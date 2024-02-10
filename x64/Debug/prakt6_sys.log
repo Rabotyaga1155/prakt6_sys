@@ -1,0 +1,3 @@
+﻿  prakt6_sys.cpp
+C:\Users\Incl\Desktop\CPP\prakt6_sys\prakt6_sys.cpp(22,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  prakt6_sys.vcxproj -> C:\Users\Incl\Desktop\CPP\prakt6_sys\x64\Debug\prakt6_sys.exe
